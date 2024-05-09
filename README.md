@@ -29,6 +29,6 @@ This is a simple car rental application implemented in C++ that allows users to 
 * Upon running the program, follow the on-screen instructions to navigate through different options.
 * Input data as prompted and follow the prompts to complete actions.
 
-## Contributers
-
- **[@Alaa Ayman](https://github.com/alaa-88)**
+## Contributors
+* [Mai saeed](https://github.com/mai-saeed)
+* [Alaa Ayman](https://github.com/alaa-88)
