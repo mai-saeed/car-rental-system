@@ -31,6 +31,7 @@ This is a simple car rental application implemented in C++ that allows users to 
 
 ## Acknowledgements
 
-This project owes its success to the dedicated efforts of my esteemed team member **@alaa-88**
+This project owes its success to the dedicated efforts of my esteemed team member **[@Alaa Ayman](https://github.com/alaa-88)**
+
 
 I extend my heartfelt gratitude to Alaa Ayman for her exceptional dedication, expertise, and invaluable contributions throughout the development journey. Together, we achieved milestones and delivered a remarkable solution.
